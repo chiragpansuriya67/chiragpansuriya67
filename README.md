@@ -4,7 +4,7 @@
 
 # Chirag Pansuriya
 
-### Software Engineer · AI & Automation · React Native · React · TypeScript
+### Software Engineer · AI & Automation · Python · React Native · React · TypeScript
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=1F6F5B&center=true&vCenter=true&width=820&height=40&lines=AI+%26+Automation;OpenAI+API+%C2%B7+Azure+AI+Services;LLM+integration+%C2%B7+prompt+engineering;AI-assisted+workflow+automation;AI+evaluation+%C2%B7+React+Native" alt="AI and Automation: OpenAI API, Azure AI Services, LLM integration, prompt engineering, AI-assisted workflow automation, AI evaluation" />
 
