@@ -15,7 +15,7 @@ Surat, India · Remote · Open to full-time, contract, and freelance
 
 <p>
   <a href="mailto:pansuriyachirag67@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pansuriyachirag67%40gmail.com-0B3A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pansuriya-chirag/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pansuriya--chirag-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/chiragpansuriya67/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chiragpansuriya67-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://chiragpansuriya.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-chiragpansuriya.dev-1F6F5B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/chiragpansuriya67"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-chiragpansuriya67-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
